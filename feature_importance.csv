@@ -1,0 +1,103 @@
+Feature,Importance
+Chimney_Temperature_C_std,0.05561039989673063
+Boiler1Water_Conductivity_uScm_mean,0.05319372938737731
+Feed_Water_pH_std,0.038341916780125475
+Feed_Water_Conductivity_uScm_min,0.03711307304254593
+Feed_Water_pH_min,0.035068805841404045
+Boiler1_Level_Guage_(40-50%)_std,0.03400529442992339
+Boiler1_F.D_FAN_AIR_Temperature_(OUTLET_TEMPERATURE)_min,0.029200758443816557
+BOILER1_A.P.H_FLUE_GAS_INLET_TEMPERATURE_(<150 C)_max,0.02905815281164752
+Efficiency_zscore,0.02862709882112746
+Boiler1_F.D_FAN_AIR_Temperature_(OUTLET_TEMPERATURE)_mean,0.027561744182777525
+Chimney_Temperature_C_mean,0.0267571970513766
+Efficiency_roll3,0.02502494942053541
+Feed_Water_Tank_Level_(50 to 70%)_mean,0.024399893867865754
+Chimney_Temperature_C_max,0.02299923171527134
+BOILER1_A.P.H_FLUE_GAS_OUTLET_TEMPERATURE_(<300 C)_mean,0.02275151635523557
+BOILER1_A.P.H_FLUE_GAS_O2_%_mean,0.022709820267399008
+Feed_Water_Conductivity_uScm_max,0.020496444283867182
+Boiler1_Drum_Steam_Pressure_mean,0.019822953559031586
+lp_steam_kg,0.018500371364136712
+ng_meter_m3,0.01825100697650549
+Feed_Water_Conductivity_uScm_mean,0.01808539817887343
+Boiler1Water_TDS_ppm_std,0.016179449794570793
+Boiler1_Drum_Steam_Pressure_std,0.0141611750079156
+Feed_Water_Tank_Level_(50 to 70%)_std,0.013980029375822656
+Boiler1_Modulation_%_min,0.013720813911668857
+da_makeup_tank_kl,0.013104028980044837
+Boiler1Water_Conductivity_uScm_max,0.012970133804178456
+boiler_steam_tons,0.012513186485689644
+BOILER1_A.P.H_FLUE_GAS_O2_%_min,0.012509259060674596
+Adjusted_NG_Consumption,0.012010266155002582
+SoftWater_pH_std,0.011762104672308557
+BOILER1_A.P.H_FLUE_GAS_OUTLET_TEMPERATURE_(<300 C)_max,0.011271392284404295
+Boiler1_F.D_FAN_AIR_Temperature_(OUTLET_TEMPERATURE)_max,0.011249854116030529
+feed_water_kl,0.011207739544392185
+BOILER1_A.P.H_FLUE_GAS_INLET_TEMPERATURE_(<150 C)_std,0.010939692820311877
+ng_skid_unconverted,0.010703692588253178
+Boiler1Water_pH_max,0.010690643728372595
+Boiler1Water_TDS_ppm_max,0.010315673276733476
+BOILER1_A.P.H_FLUE_GAS_INLET_TEMPERATURE_(<150 C)_mean,0.010197774357376656
+Feed_Water_Tank_Temperature_(102 to 105 C)_min,0.010003645031469357
+Boiler1Water_Conductivity_uScm_std,0.009992060477303444
+BOILER1_A.P.H_FLUE_GAS_O2_%_std,0.009936815051727345
+Boiler1_Drum_Steam_Pressure_min,0.009564583442403126
+BOILER1_A.P.H_FLUE_GAS_OUTLET_TEMPERATURE_(<300 C)_min,0.009352163654641846
+Boiler1_Level_Guage_(40-50%)_mean,0.009120935031498911
+Feed_Water_Tank_Temperature_(102 to 105 C)_std,0.00900995561582919
+Feed_Water_DO_ppm_max,0.008980899675990715
+Boiler_Yield,0.008656596966233934
+Boiler1Water_pH_std,0.008444878030801009
+Feed_Water_pH_max,0.008359273374738657
+Boiler1_Modulation_%_mean,0.008207559619245776
+SoftWater_pH_max,0.008124926567679967
+Boiler1_Modulation_%_max,0.007755544632469367
+SoftWater_pH_mean,0.007563784155535421
+soft_water_outlet_kl,0.005263868777041817
+Feed_Water_pH_mean,0.004238192688280248
+Boiler1Water_pH_min,0.00399511868167275
+Efficiency_lag_1,0.0029336301102171583
+SoftWater_pH_min,0.0026367072848253537
+Feed_Water_Conductivity_uScm_std,0.0025355976427933594
+Boiler1Water_pH_mean,0.00245721920624964
+Feed_Water_Tank_Pressure_(<0.5 kg/cm2)_mean,0.002434469053658571
+Boiler1Water_TDS_ppm_mean,0.0019903308271823888
+Chimney_Temperature_C_min,0.0018459659847632772
+soft_water_inlet_kl,0.0017612917155931276
+Boiler1_Modulation_%_std,0.0016272105726454788
+Feed_Water_DO_ppm_std,0.0014398378359257947
+Boiler1Water_TDS_ppm_min,0.0013046475020503472
+BOILER1_A.P.H_FLUE_GAS_O2_%_max,0.0010571826499107832
+Efficiency_lag_2,0.0010348105470665964
+hp_steam_tons,0.0006906437283669966
+BOILER1_A.P.H_FLUE_GAS_OUTLET_TEMPERATURE_(<300 C)_std,0.0005707873553009419
+Boiler1Water_Conductivity_uScm_min,3.371491997984793e-05
+cereal_condensate_ltr,5.476146547081147e-06
+Feed_Water_Tank_Temperature_(102 to 105 C)_mean,1.926077783129546e-06
+ng_skid_converted,1.0827232520933683e-06
+Boiler1_Drum_Steam_Pressure_max,0.0
+BOILER1_A.P.H_FLUE_GAS_INLET_TEMPERATURE_(<150 C)_min,0.0
+Boiler1_Level_Guage_(40-50%)_max,0.0
+Feed_Water_Tank_Pressure_(<0.5 kg/cm2)_min,0.0
+Feed_Water_Tank_Level_(50 to 70%)_min,0.0
+Feed_Water_Tank_Level_(50 to 70%)_max,0.0
+Feed_Water_DO_ppm_mean,0.0
+Feed_Water_DO_ppm_min,0.0
+Boiler1_F.D_FAN_AIR_Temperature_(OUTLET_TEMPERATURE)_std,0.0
+Boiler1_Level_Guage_(40-50%)_min,0.0
+Feed_Water_Tank_Pressure_(<0.5 kg/cm2)_max,0.0
+NG_CV_kcal_per_Nm3_max,0.0
+NG_CV_kcal_per_Nm3_mean,0.0
+Feed_Water_Temp_C_std,0.0
+Feed_Water_Tank_Temperature_(102 to 105 C)_max,0.0
+Feed_Water_Temp_C_mean,0.0
+Feed_Water_Temp_C_min,0.0
+Feed_Water_Temp_C_max,0.0
+Feed_Water_Tank_Pressure_(<0.5 kg/cm2)_std,0.0
+NG_CV_kcal_per_Nm3_min,0.0
+SoftWater_Hardness_ppm_std,0.0
+SoftWater_Hardness_ppm_max,0.0
+NG_CV_kcal_per_Nm3_std,0.0
+SoftWater_Hardness_ppm_mean,0.0
+SoftWater_Hardness_ppm_min,0.0
+Conversion_Rate,0.0
