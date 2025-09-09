@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # --- Load data ---
-df_data = pd.read_csv('boiler_ml_anomalies(1).csv', parse_dates=['Date'])
+df_data = pd.read_csv('boiler_ml_anomalies.csv', parse_dates=['Date'])
 df_predictions = pd.read_csv('efficiency_predictions.csv', parse_dates=['Date'])
 df_feat_imp = pd.read_csv('feature_importance.csv')
 
