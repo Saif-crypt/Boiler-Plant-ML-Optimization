@@ -68,13 +68,13 @@ st.pyplot(fig2)
 
 st.markdown("---")
 
-# Data table with highlighted anomaly rows
+# Data table with anomaly indicator column for clarity
 st.header("Detailed Data Table with Anomalies")
 
-def highlight_anomaly(row):
-    return ['background-color: #ffdddd' if val == -1 else '' for val in row.anomaly]
+# Optionally, add a new anomaly status column for clearer display
+filtered_data['Anomaly Status'] = filtered_data['anomaly'].map({-1: 'Anomaly', 1: 'Normal'})
 
-st.dataframe(filtered_data.style.apply(highlight_anomaly, axis=1), height=400)
+st.dataframe(filtered_data, height=400)
 
 # CSV Download
 st.sidebar.download_button(
